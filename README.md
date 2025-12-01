@@ -55,4 +55,8 @@ Hyperparameter tuning (GridSearchCV / RandomizedSearchCV)
 Balancing methods (SMOTE, undersampling, oversampling)
 Trying other models (XGBoost, LightGBM, Logistic Regression)
 Deployment as an API or web dashboard
-
+ 
+ 
+ Results
+  The model's performance was evaluated on the test set (X_test, y_test).
+  The key metrics achieved are:MetricScoreAccuracy0.9995Precision0.9655Recall0.8000ROC AUC0.9694
